@@ -1,35 +1,55 @@
-# EightGravexParties(EGP)
-Gra komputerowo-mobilna. Jest to nowa gra, podobna do swoich poprzedników. Gra jest jeszcze w trakcie tworzenia i będzie pierwszą oficjalnie wydaną grą od InGraw Co.
+# EGP
 
-# Link Do pobrania:
-0.8.b5-patch Beta Stable No bugs:
-https://github.com/GrawikInGraw/EightGravexParties-EGP-/releases/tag/0.8.b5
----
-0.8.b4 Beta Pre-Relase ( More bugs ):
-https://drive.google.com/file/d/17l_TK-Z7wAZOyB8FgXk2doYHTMiC60m6/view?usp=sharing
----
-0.5.a6 Alpha Stable Relase:
-https://drive.google.com/file/d/1q5NYiMJ-rpnfAt0vgncAgAcdlDBCCCcm/view?usp=sharing
----
-0.43:
-https://drive.google.com/file/d/10PdIh3KAs05u7yOOhtlyE0GB3eUTV42y/view?usp=sharing
----
-0.0.98:
-https://github.com/GrawikInGraw/EightGravexParties-EGP-/releases/tag/0.0.98
-----
-0.0.8:
-https://github.com/GrawikInGraw/EightGravexParties-EGP-/releases/tag/0.0.8
+**EGP** is a first-person survival horror game where the player remains in a single room and observes the environment using cameras, lights, and basic control systems.  
+The goal is to survive consecutive nights by carefully monitoring threats and managing limited resources wisely.
+
+The game focuses on tension, observation, and decision-making rather than fast action, creating constant pressure and uncertainty during gameplay.
+
 ---
 
+## Download Links
 
-# UWAGA!
-Gra została stworzona przez InGraw 24 Co., a jej właścicielem oraz głównym twórcą jest Mateusz Lademann. Wszelkie prawa do tej produkcji są zastrzeżone, a kopiowanie, dystrybucja oraz modyfikacja gry bez zgody autora są zabronione.
+**0.8.b5 – Beta Stable (No known bugs)**  
+https://github.com/GrawikInGraw/EightGravexParties-EGP-/releases/tag/0.8.b5  
 
-Cały kod źródłowy gry został w 100% opracowany autorsko w silniku Unreal Engine 5.4.
-Wszystkie materiały wizualne zostały stworzone przy użyciu Adobe Substance Painter lub bezpośrednio w silniku. Modele 3D zostały zaprojektowane od podstaw w Blenderze.
+---
 
-Należy zaznaczyć, że dwa modele zostały początkowo wygenerowane przy użyciu sztucznej inteligencji, jednak poddano je znaczącym modyfikacjom, w wyniku których stanowią jedynie inspirację dla ostatecznych wersji w grze.
+**0.8.b4 – Beta Pre-Release (More bugs)**  
+https://drive.google.com/file/d/17l_TK-Z7wAZOyB8FgXk2doYHTMiC60m6/view?usp=sharing  
 
-Wszelkie zasoby pochodzące z zewnętrznych źródeł (materiały, tekstury, modele, dźwięki itp.) zostały pozyskane zgodnie z obowiązującymi licencjami, które dopuszczają ich komercyjne wykorzystanie.
+---
 
-Dziękujemy za zainteresowanie naszą produkcją i liczymy na pozytywne wrażenia z rozgrywki.
+**0.5.a6 – Alpha Stable Release**  
+https://drive.google.com/file/d/1q5NYiMJ-rpnfAt0vgncAgAcdlDBCCCcm/view?usp=sharing  
+
+---
+
+**0.43**  
+https://drive.google.com/file/d/10PdIh3KAs05u7yOOhtlyE0GB3eUTV42y/view?usp=sharing  
+
+---
+
+**0.0.98**  
+https://github.com/GrawikInGraw/EightGravexParties-EGP-/releases/tag/0.0.98  
+
+---
+
+**0.0.8**  
+https://github.com/GrawikInGraw/EightGravexParties-EGP-/releases/tag/0.0.8  
+
+---
+
+## ⚠️ Important Notice
+
+This game was created by **InGraw 24 Co.**, and its owner and main developer is **Mateusz Lademann**.  
+All rights to this production are reserved. Copying, distributing, or modifying the game without the author’s permission is strictly prohibited.
+
+The entire game source code was developed **100% originally** using **Unreal Engine 5.4**.  
+All visual assets were created using **Adobe Substance Painter** or directly inside the engine.  
+All 3D models were designed from scratch in **Blender**.
+
+It should be noted that **two models were initially generated using artificial intelligence**, but they were heavily modified and reworked. As a result, they serve only as inspiration for the final in-game versions.
+
+Any assets sourced externally (materials, textures, models, sounds, etc.) were obtained under valid licenses that allow **commercial use**.
+
+Thank you for your interest in our project — we hope you enjoy the experience.
